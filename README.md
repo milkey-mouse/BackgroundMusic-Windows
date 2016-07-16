@@ -1,4 +1,4 @@
-![Background Music icon](Images/README/icon.png)
+![Background Music icon](Images/icon.png)
 
 # ⚠⚠⚠⚠ Work in progress, this doesn't work yet! ⚠⚠⚠⚠
 If you want a Mac version, try the original [Background Music](https://github.com/kyleneideck/BackgroundMusic).
