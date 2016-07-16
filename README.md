@@ -1,9 +1,8 @@
-![Background Music icon](Images/icon.png)
-
 # ⚠⚠⚠⚠ Work in progress, this doesn't work yet! ⚠⚠⚠⚠
 If you want a Mac version, try the original [Background Music](https://github.com/kyleneideck/BackgroundMusic).
 
-#   Background Music for Windows
+![Background Music icon](Images/icon.png)
+# Background Music for Windows
 ##### A Windows version of the macOS/OS X audio utility
 
 todo: add screenshot here
